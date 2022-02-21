@@ -1,0 +1,7 @@
+N=int(input('enter number: ') 
+Ascii_value=97
+For I in range(1, n+1): 
+For j in range (1, n+1): 
+Print(chr(ascii_value), end="") 
+Ascii_value+=1
+Print ('/n') 
